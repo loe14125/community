@@ -5,7 +5,7 @@
 As described in [How we define scalability] document, it is impossible
 to provide guarantees in a generic situation. One of the prerequisites
 for SLOs being satisfied is keeping the load in the cluster within
-recommended limits. This document is trying to explicitly summarize
+recommended limits. This documentying to explicitly summarize
 dimensions and limits themselves.
 
 [How we define scalability]: https://github.com/kubernetes/community/blob/master/sig-scalability/slos/slos.md#how-we-define-scalability
